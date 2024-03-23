@@ -35,16 +35,16 @@ a {
 }
 
 .left-links ul {
-margin: 0 20px;
-padding: 0px;
-display: flex;
-justify-content: space-around;
-gap:  8px;
+  margin: 0px 20px;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+  gap:  8px;
 }
 
 .right-links ul {
-  margin: 0 20px;
-  padding: 0px;
+  margin: 0px 20px;
+  padding: 0;
   display: flex;
   justify-content: space-around;
   gap:  8px;
